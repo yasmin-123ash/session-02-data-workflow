@@ -50,3 +50,5 @@ The findings describe patterns in this dataset and do not establish causal relat
 ## Next Step
 
 The next step would be to clean and prepare the data carefully before applying a machine learning model.
+
+The dataset was saved locally in the project so the analysis can be rerun without downloading the data again.
