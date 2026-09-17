@@ -1,0 +1,2 @@
+rows,columns,duplicates,total_missing_values,numerical_columns,categorical_columns
+344,7,0,19,"['bill_length_mm', 'bill_depth_mm', 'flipper_length_mm', 'body_mass_g']","['species', 'island', 'sex']"
